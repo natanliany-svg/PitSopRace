@@ -1,7 +1,7 @@
 // קובץ לשליפת הנתונים מהרשרת וכן הצגה וניהול התור
 
 
-
+//import fs from "fs"
 const apiUrl = "https://server-for-test-week-13.onrender.com/api/race"
 
 export async function readRaceData() {
